@@ -1,0 +1,11 @@
+
+.jumbotron {
+	background-image: url("http://i.huffpost.com/gen/2176032/images/o-JENNIFER-ANISTON-FRIENDS-facebook.jpg");
+	background-size: cover;
+	color: white;
+	font-family: sans-serif;
+	font-weight: bold;
+}
+.rachel{
+	display: none;
+}
