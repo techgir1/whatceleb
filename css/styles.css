@@ -1,11 +1,13 @@
-
-.jumbotron {
-	background-image: url("http://i.huffpost.com/gen/2176032/images/o-JENNIFER-ANISTON-FRIENDS-facebook.jpg");
-	background-size: cover;
-	color: white;
-	font-family: sans-serif;
-	font-weight: bold;
+#container-result1, #container-result2, #container-result3, #container-result4{
+  display: none;
 }
-.rachel{
-	display: none;
+.container-jumbotron {
+  margin-top: 28px;
+}
+
+
+body {
+  background: url("https://upload.wikimedia.org/wikipedia/commons/7/76/Coast_Garter_Snake.jpg");
+  background-size: cover;
+
 }
